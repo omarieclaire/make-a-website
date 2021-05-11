@@ -57,7 +57,6 @@ h2 {
 
 }
 
-/* header stuff */
 header {
   text-align: center;
   width: 100%;
@@ -95,7 +94,6 @@ nav a:hover {
   padding: 0 0 3rem 0;
 }
 
-/* button stuff */
 .button {
   display: inline-block;
   text-decoration: none;
@@ -103,8 +101,6 @@ nav a:hover {
   /* padding: .6em 4em; */
 }
 
-/* Footer
-=================== */
 footer {
   padding: 3rem 0 3rem 0;
   background-color: rgba(245, 243, 251, .9);
